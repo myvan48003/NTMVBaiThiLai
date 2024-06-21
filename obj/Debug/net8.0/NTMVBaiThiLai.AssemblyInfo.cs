@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NTMVBaiThiLai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+358404a11ef74cdcd7380de6083938ae7dcb403d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1e451181f1a80f25974f6baffa9147c6434c352")]
 [assembly: System.Reflection.AssemblyProductAttribute("NTMVBaiThiLai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NTMVBaiThiLai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
