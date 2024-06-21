@@ -1,0 +1,9 @@
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.csproj.AssemblyReference.cache
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.AssemblyInfoInputs.cache
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.AssemblyInfo.cs
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.csproj.CoreCompileInputs.cache
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.MvcApplicationPartsAssemblyInfo.cache
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.RazorAssemblyInfo.cache
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.RazorAssemblyInfo.cs
+/Users/myvan/NTMVBaiThiLai/obj/Debug/net8.0/NTMVBaiThiLai.sourcelink.json
